@@ -10,6 +10,7 @@ class CnnNewsFeed {
     private $url;
     private $error;
     private $simpleXmlObj;
+    private $format_res;
     public function __construct($url)
     {
         $this->url = $url;
@@ -20,6 +21,7 @@ class CnnNewsFeed {
         if($header[0] = "HTTP/1.1 404 Not Found")
         {
             $this->error = array("exist" => false);
+            return false;
         }
         else
         {
@@ -30,6 +32,33 @@ class CnnNewsFeed {
     private function parse()
     {
         $handle = $this->get_content();
-
+        if($handle === false) {
+            foreach ($handle->item as $content) {
+                $this->format_res = array(
+                    "guid" => $content->guid,
+                    "content" => array(
+                        "headline" => $content->title,
+                        "desc" => $content->description,
+                        "pubDate" => $content->pubDate,
+                        "link" => $content->link
+                    )
+                );
+            }
+            return $this->format_res;
+        }
+        else
+        {
+            return false;
+        }
+    }
+    public function getArray()
+    {
+        if($this->parse() === false)
+        {
+            $error = "You Have an Error, please check! To get the details please call \$CNN->getError()";
+        }
+        else{
+            return $this->parse();
+        }
     }
 }

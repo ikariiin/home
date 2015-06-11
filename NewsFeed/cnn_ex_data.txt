@@ -1,0 +1,1537 @@
+object(SimpleXMLElement)#1 (2) {
+  ["@attributes"]=>
+  array(1) {
+    ["version"]=>
+    string(3) "2.0"
+  }
+  ["channel"]=>
+  object(SimpleXMLElement)#2 (9) {
+    ["title"]=>
+    string(15) "CNN.com - World"
+    ["link"]=>
+    string(50) "http://www.cnn.com/WORLD/index.html?eref=rss_world"
+    ["description"]=>
+    string(124) "CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."
+    ["language"]=>
+    string(5) "en-US"
+    ["copyright"]=>
+    string(43) "Copyright 2015 Cable News Network LP, LLLP."
+    ["pubDate"]=>
+    string(29) "Thu, 11 Jun 2015 13:36:32 EDT"
+    ["ttl"]=>
+    string(2) "10"
+    ["image"]=>
+    object(SimpleXMLElement)#3 (6) {
+      ["title"]=>
+      string(15) "CNN.com - World"
+      ["link"]=>
+      string(50) "http://www.cnn.com/WORLD/index.html?eref=rss_world"
+      ["url"]=>
+      string(60) "http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif"
+      ["width"]=>
+      string(3) "144"
+      ["height"]=>
+      string(2) "33"
+      ["description"]=>
+      string(124) "CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."
+    }
+    ["item"]=>
+    array(115) {
+      [0]=>
+      object(SimpleXMLElement)#4 (5) {
+        ["title"]=>
+        string(45) "Pregnant Boko Haram kidnap victim stigmatized"
+        ["guid"]=>
+        string(74) "http://www.cnn.com/2015/06/11/africa/boko-haram-pregnant-victim/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/sP7Zcz8A1tY/index.html"
+        ["description"]=>
+        string(276) "Um Haleema was just 16 years old when she was kidnapped. Her first few months in captivity, at the hands of militant group Boko Haram, were enough to break anyone's spirit."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 09:53:32 EDT"
+      }
+      [1]=>
+      object(SimpleXMLElement)#5 (5) {
+        ["title"]=>
+        string(29) "Photos: Boko Haram in Nigeria"
+        ["guid"]=>
+        string(73) "http://www.cnn.com/2014/04/17/world/gallery/nigeria-boko-haram/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/XL7BCjfa5-Q/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 09:47:52 EDT"
+      }
+      [2]=>
+      object(SimpleXMLElement)#6 (5) {
+        ["title"]=>
+        string(70) "Nigerian girls who escaped Boko Haram risk their lives to go to school"
+        ["guid"]=>
+        string(80) "http://www.cnn.com/2015/03/24/world/nigerian-girls-escaped-boko-haram/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/rgi6ZyglrN4/index.html"
+        ["description"]=>
+        string(280) "In a side room at the American University of Nigeria, four girls chat and giggle. One teenage girl in particular catches our attention. She looks familiar. Then we realize why."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 09:49:45 EDT"
+      }
+      [3]=>
+      object(SimpleXMLElement)#7 (5) {
+        ["title"]=>
+        string(79) "Malala's letter to Nigeria's abducted schoolgirls: 'solidarity, love, and hope'"
+        ["guid"]=>
+        string(93) "http://www.cnn.com/2015/04/13/world/malala-nigeria-schoolgirls-abducted-boko-haram/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/qpKJZ4LH7oE/index.html"
+        ["description"]=>
+        string(268) "On the eve of the one-year mark since nearly 300 schoolgirls were abducted by Boko Haram in Nigeria, Malala Yousafzai released an "open letter" to the girls Monday."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 09:49:54 EDT"
+      }
+      [4]=>
+      object(SimpleXMLElement)#8 (5) {
+        ["title"]=>
+        string(36) "Opinion: What jihadis plan for women"
+        ["guid"]=>
+        string(78) "http://www.cnn.com/2015/04/16/opinions/ghitis-women-isis-boko-haram/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/G57V2vhEm_Q/index.html"
+        ["description"]=>
+        string(213) "There is a special kind of hell reserved for the women who fall into the clutches of today's Jihadi fighters."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 09:50:40 EDT"
+      }
+      [5]=>
+      object(SimpleXMLElement)#9 (5) {
+        ["title"]=>
+        string(43) "'Star Wars,' 'Lord of the Rings' actor dies"
+        ["guid"]=>
+        string(75) "http://www.cnn.com/2015/06/11/entertainment/christopher-lee-dies/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/N7PwjdsUn3Y/index.html"
+        ["description"]=>
+        string(332) "Sir Christopher Lee, the British actor who mastered horror and Dracula roles before his turns as a Bond villain and the wizard Saruman in the "Lord of the Rings" trilogy, died this week, a London borough spokesman said Thursday."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 11:44:24 EDT"
+      }
+      [6]=>
+      object(SimpleXMLElement)#10 (5) {
+        ["title"]=>
+        string(42) "'Sea change' in Catholic sex abuse scandal"
+        ["guid"]=>
+        string(83) "http://www.cnn.com/2015/06/10/us/pope-vatican-bishops-sex-abuse-tribunal/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/xyuDXcbvNq8/index.html"
+        ["description"]=>
+        string(303) "Pope Francis has created a church tribunal to judge bishops who fail to protect children from sexually abusive priests, the Vatican announced, a move long sought by abuse victims and their advocates."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 09:50:58 EDT"
+      }
+      [7]=>
+      object(SimpleXMLElement)#11 (5) {
+        ["title"]=>
+        string(54) "Why only Putin could be late for meeting with the Pope"
+        ["guid"]=>
+        string(65) "http://www.cnn.com/2015/06/11/europe/putin-pope-chance/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/w1jGAVR7kXY/index.html"
+        ["description"]=>
+        string(235) "There aren't many world leaders prepared to keep the Pope hanging around for a meeting. Russia's President is perhaps the only one."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 09:51:11 EDT"
+      }
+      [8]=>
+      object(SimpleXMLElement)#12 (5) {
+        ["title"]=>
+        string(50) "U.S. ambassador to U.N. slams Russian 'aggression'"
+        ["guid"]=>
+        string(73) "http://www.cnn.com/2015/06/11/europe/samantha-power-in-ukraine/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/DXicl2pmeWc/index.html"
+        ["description"]=>
+        string(224) "A senior U.S. diplomat, on a visit Thursday to Ukraine, has slammed what she called Russian "aggression" in the country."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 12:34:23 EDT"
+      }
+      [9]=>
+      object(SimpleXMLElement)#13 (5) {
+        ["title"]=>
+        string(44) "China's ex-security chief sentenced to life "
+        ["guid"]=>
+        string(74) "http://www.cnn.com/2015/06/11/asia/china-zhou-yongkang-sentence/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/K3qbAoJm-rw/index.html"
+        ["description"]=>
+        string(297) "The highest-ranking Chinese Communist Party official ever to face corruption charges has been sentenced to life in prison, according to a statement Thursday from China's Supreme People's Court."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 10:16:15 EDT"
+      }
+      [10]=>
+      object(SimpleXMLElement)#14 (5) {
+        ["title"]=>
+        string(56) "Austria, Switzerland probe spy claims in Iran nuke talks"
+        ["guid"]=>
+        string(82) "http://www.cnn.com/2015/06/11/europe/austria-iran-talks-espionage-claim/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/FB6uBDZflow/index.html"
+        ["description"]=>
+        string(311) "Swiss and Austrian authorities are investigating claims of potential espionage during recent nuclear talks between Iran and world powers including the United States, officials from each nation said Thursday."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 13:36:17 EDT"
+      }
+      [11]=>
+      object(SimpleXMLElement)#15 (5) {
+        ["title"]=>
+        string(55) "Iraqi forces: 'We don't need training, we need weapons'"
+        ["guid"]=>
+        string(70) "http://www.cnn.com/2015/06/11/middleeast/iraqi-baiji-mazraa/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/31vv6jAPDkQ/index.html"
+        ["description"]=>
+        string(257) "Al-Mazraa is a dusty village just south of Baiji, where a battle is raging between ISIS fighters and pro-government Iraqi forces trying to push them out."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 11:36:57 EDT"
+      }
+      [12]=>
+      object(SimpleXMLElement)#16 (5) {
+        ["title"]=>
+        string(27) "American dies fighting ISIS"
+        ["guid"]=>
+        string(97) "http://www.cnn.com/2015/06/10/politics/american-killed-fighting-syria-keith-broomfield/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/JS7O9BRVa-E/index.html"
+        ["description"]=>
+        string(216) "American citizen Keith Broomfield was killed fighting in Syria, A State Department official confirmed Wednesday."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 12:18:54 EDT"
+      }
+      [13]=>
+      object(SimpleXMLElement)#17 (5) {
+        ["title"]=>
+        string(37) "'Pirates' actor fights ISIS -- really"
+        ["guid"]=>
+        string(80) "http://www.cnn.com/2015/06/10/world/syria-kurds-actor-michael-enright/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/JQICh4H1PQM/index.html"
+        ["description"]=>
+        string(175) "ISIS wives may play key roles | Iraqi veteran: 'ISIS worse than cancer'"
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 07:43:41 EDT"
+      }
+      [14]=>
+      object(SimpleXMLElement)#18 (5) {
+        ["title"]=>
+        string(50) "Brazilian soccer legend to run for FIFA presidency"
+        ["guid"]=>
+        string(122) "http://www.cnn.com/video/data/2.0/video/world/2015/06/11/fifa-brazilian-footballer-zico-president-darlington-lklv.cnn.html"
+        ["link"]=>
+        string(120) "http://rss.cnn.com/~r/rss/edition_world/~3/5ynQA8jWeD8/fifa-brazilian-footballer-zico-president-darlington-lklv.cnn.html"
+        ["description"]=>
+        string(251) "Former Brazilian football star Zico announced his plans for FIFA's presidency. CNN's Shasta Darlington has more on his long history with the sport."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 08:54:40 EDT"
+      }
+      [15]=>
+      object(SimpleXMLElement)#19 (5) {
+        ["title"]=>
+        string(47) "South Korea MERS outbreak: 2nd hospital closed "
+        ["guid"]=>
+        string(71) "http://www.cnn.com/2015/06/11/asia/south-korea-mers-outbreak/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/XvraYzD2vRk/index.html"
+        ["description"]=>
+        string(293) "A second South Korean clinic has been forced to close, with staff, patients and visitors sent into quarantine, as the country attempts to curb the spread of the MERS virus for a third week."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 10:00:41 EDT"
+      }
+      [16]=>
+      object(SimpleXMLElement)#20 (5) {
+        ["title"]=>
+        string(53) "Charity: Tickled animal in viral video being tortured"
+        ["guid"]=>
+        string(103) "http://www.cnn.com/video/data/2.0/video/world/2015/06/11/slow-loris-videos-promote-torture-sot.cnn.html"
+        ["link"]=>
+        string(101) "http://rss.cnn.com/~r/rss/edition_world/~3/eVkbJ0sTpqw/slow-loris-videos-promote-torture-sot.cnn.html"
+        ["description"]=>
+        string(312) "The International Animal Rescue claims that the online popularity of the endangered primate Slow Loris has put the animal at risk, and video's showing the Loris being tickled is actually torturing the animal."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 08:52:43 EDT"
+      }
+      [17]=>
+      object(SimpleXMLElement)#21 (5) {
+        ["title"]=>
+        string(31) "Found: Preserved dinosaur cells"
+        ["guid"]=>
+        string(70) "http://www.cnn.com/2015/06/10/tech/dinosaur-preserved-cells/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/1aRNFhQwYG4/index.html"
+        ["description"]=>
+        string(287) "The science behind the Jurassic Park films always seemed far-fetched, even before the latest instalment, Jurassic World, introduced the idea of genetically engineered super-dinosaurs."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 07:44:03 EDT"
+      }
+      [18]=>
+      object(SimpleXMLElement)#22 (5) {
+        ["title"]=>
+        string(45) "Baby koala won't leave mom during her surgery"
+        ["guid"]=>
+        string(94) "http://www.cnn.com/2015/06/10/travel/feat-baby-koala-stays-by-mother-during-surgery/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/o-QyPIoa3VI/index.html"
+        ["description"]=>
+        string(202) "It's no surprise a baby wouldn't want to let go of his mama while she underwent emergency surgery."
+        ["pubDate"]=>
+        string(29) "Wed, 10 Jun 2015 11:23:59 EDT"
+      }
+      [19]=>
+      object(SimpleXMLElement)#23 (5) {
+        ["title"]=>
+        string(50) "Billionaire's wife seeks record divorce settlement"
+        ["guid"]=>
+        string(103) "http://www.cnn.com/video/data/2.0/video/world/2015/06/08/russia-billionaire-divorce-chance-pkg.cnn.html"
+        ["link"]=>
+        string(101) "http://rss.cnn.com/~r/rss/edition_world/~3/pEB4cc04Css/russia-billionaire-divorce-chance-pkg.cnn.html"
+        ["description"]=>
+        string(244) "CNN's Matthew Chance meets the wife of a Russian billionaire who is seeking what could be one of the biggest divorce settlements in history."
+        ["pubDate"]=>
+        string(29) "Mon, 08 Jun 2015 08:40:05 EDT"
+      }
+      [20]=>
+      object(SimpleXMLElement)#24 (5) {
+        ["title"]=>
+        string(33) "Eight must-see Budapest buildings"
+        ["guid"]=>
+        string(75) "http://www.cnn.com/2013/11/26/travel/budapest-must-see-buildings/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/c7KP3rv7Tsw/index.html"
+        ["description"]=>
+        string(216) "Just about every capital city in Eastern Europe seems to have been called "the Paris of the East" at some point."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 11:02:48 EDT"
+      }
+      [21]=>
+      object(SimpleXMLElement)#25 (5) {
+        ["title"]=>
+        string(39) "The horror of ISIS's treatment of women"
+        ["guid"]=>
+        string(78) "http://www.cnn.com/2015/06/11/opinions/bangura-isis-treatment-women/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/b7PPT4oKyCE/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 09:59:49 EDT"
+      }
+      [22]=>
+      object(SimpleXMLElement)#26 (5) {
+        ["title"]=>
+        string(29) "Turkey's political earthquake"
+        ["guid"]=>
+        string(80) "http://www.cnn.com/2015/06/08/opinions/berman-turkey-election-results/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/O_FRg_gsI5E/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 11:40:40 EDT"
+      }
+      [23]=>
+      object(SimpleXMLElement)#27 (5) {
+        ["title"]=>
+        string(28) "MERS outbreak holds lessons "
+        ["guid"]=>
+        string(70) "http://www.cnn.com/2015/06/10/opinions/vox-mers-south-korea/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/IkeqTORkBog/index.html"
+        ["description"]=>
+        string(455) "The outbreak in South Korea of the deadly Middle East respiratory syndrome, or MERS, is the largest outside of Saudi Arabia, and very frightening. But here is a consolation: If a similar outbreak of MERS does land in the United States this year, our own experience with Ebola has primed the health system to respond more vigorously than we might have."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 13:31:41 EDT"
+      }
+      [24]=>
+      object(SimpleXMLElement)#28 (5) {
+        ["title"]=>
+        string(40) "Time to be honest about Israel's capital"
+        ["guid"]=>
+        string(80) "http://www.cnn.com/2015/06/08/opinions/ghitis-supreme-court-jerusalem/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/6SLUvaBHg7k/index.html"
+        ["description"]=>
+        string(323) "Diplomacy sometimes creates moments of delusion, when learned men and women seem to lose touch with reality and speak in confusing sentences. That fact is on clear display when it comes to the issue of Israel's capital."
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 08:13:34 EDT"
+      }
+      [25]=>
+      object(SimpleXMLElement)#29 (5) {
+        ["title"]=>
+        string(39) "Asian parents: Your kids are not robots"
+        ["guid"]=>
+        string(71) "http://www.cnn.com/2015/06/08/opinions/yang-being-less-asian/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/MwBHGTwwJ7w/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 08 Jun 2015 12:02:14 EDT"
+      }
+      [26]=>
+      object(SimpleXMLElement)#30 (5) {
+        ["title"]=>
+        string(38) "U.N. chief: We can end poverty, hunger"
+        ["guid"]=>
+        string(69) "http://www.cnn.com/2015/06/05/opinions/moon-g7-opportunity/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/Cwfrm2e5CjU/index.html"
+        ["description"]=>
+        string(392) "This year offers a once-in-a-generation opportunity to put our world on more peaceful, sustainable and equitable footing. When they meet at the Schloss Elmau Summit in Germany on June 7-8, G7 leaders can show they are serious about seizing the moment and protecting people and the planet."
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 09:56:40 EDT"
+      }
+      [27]=>
+      object(SimpleXMLElement)#31 (5) {
+        ["title"]=>
+        string(32) "The U.S. and Cuba: A love story "
+        ["guid"]=>
+        string(81) "http://www.cnn.com/2015/06/04/opinions/crdenas-cuba-escape-and-reunion/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/UOMGmfjhmgo/index.html"
+        ["description"]=>
+        string(178) "The first time Juan tried to escape Cuba was in 1966. He was 17 years old."
+        ["pubDate"]=>
+        string(29) "Fri, 05 Jun 2015 09:32:54 EDT"
+      }
+      [28]=>
+      object(SimpleXMLElement)#32 (5) {
+        ["title"]=>
+        string(36) "How FIFA hid a most pernicious evil "
+        ["guid"]=>
+        string(72) "http://www.cnn.com/2015/06/04/opinions/ghitis-fifa-corruption/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/m25N8ybx9Ts/index.html"
+        ["description"]=>
+        string(324) "If you think FIFA is all about sport, you're missing the most important and potentially transformative campaign to uncover and punish the misdeeds of people who use soccer as a way to enrich themselves and their friends."
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 10:41:36 EDT"
+      }
+      [29]=>
+      object(SimpleXMLElement)#33 (5) {
+        ["title"]=>
+        string(35) "Worry about China's 'Great Cannon' "
+        ["guid"]=>
+        string(68) "http://www.cnn.com/2015/06/04/opinions/china-great-cannon/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/knvtUOyRu2I/index.html"
+        ["description"]=>
+        string(276) "Readers may have heard of the "Great Firewall," the powerful filters that the People's Republic of China uses to prevent Chinese citizens from accessing the whole Internet."
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 11:19:19 EDT"
+      }
+      [30]=>
+      object(SimpleXMLElement)#34 (5) {
+        ["title"]=>
+        string(44) "Abandoned Chinese village swallowed by vines"
+        ["guid"]=>
+        string(90) "http://www.cnn.com/2015/06/10/world/gallery/abandoned-chinese-village-ivy-vines/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/h0C0ht6ywYw/index.html"
+        ["description"]=>
+        string(192) "Ferns, weeds, and vines have completely covered this once bustling island town in China."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 12:29:57 EDT"
+      }
+      [31]=>
+      object(SimpleXMLElement)#35 (5) {
+        ["title"]=>
+        string(48) "Classic paintings reimagined into urban settings"
+        ["guid"]=>
+        string(73) "http://www.cnn.com/2015/06/10/travel/alexey-kondakov-paintings/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/mFBlOA5YUxk/index.html"
+        ["description"]=>
+        string(269) "Ukrainian artist Alexey Kondakov has photoshopped characters from mythology and antiquity into the modern day city. Browse through the gallery to see all the images."
+        ["pubDate"]=>
+        string(29) "Wed, 10 Jun 2015 08:28:11 EDT"
+      }
+      [32]=>
+      object(SimpleXMLElement)#36 (5) {
+        ["title"]=>
+        string(37) "What a shot! 42 amazing sports photos"
+        ["guid"]=>
+        string(78) "http://www.cnn.com/2015/06/09/sport/gallery/what-a-shot-sports-0609/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/y2wzvFLfqzk/index.html"
+        ["description"]=>
+        string(171) "Take a look at 41 amazing sports photos from June 2 through June 8."
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 11:31:32 EDT"
+      }
+      [33]=>
+      object(SimpleXMLElement)#37 (5) {
+        ["title"]=>
+        string(38) "Rare images of a 'rock star' mega-ship"
+        ["guid"]=>
+        string(70) "http://www.cnn.com/2015/06/07/world/cnnphotos-majestic-ship/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/Pm5y__QoWi0/index.html"
+        ["description"]=>
+        string(259) "The Maersk Majestic is nearly as long as four NFL football fields. It's also taller than a 20-story building and too wide to pass through the Panama Canal."
+        ["pubDate"]=>
+        string(29) "Mon, 08 Jun 2015 09:45:22 EDT"
+      }
+      [34]=>
+      object(SimpleXMLElement)#38 (5) {
+        ["title"]=>
+        string(36) "Singapore's amazing future buildings"
+        ["guid"]=>
+        string(82) "http://www.cnn.com/2015/06/10/travel/gallery/singapore-future-buildings/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/6Er7KidOKLI/index.html"
+        ["description"]=>
+        string(237) "With a skyline recognized across the world, the story of Singapore -- past, present, and future -- can be told through its buildings."
+        ["pubDate"]=>
+        string(29) "Wed, 10 Jun 2015 08:29:53 EDT"
+      }
+      [35]=>
+      object(SimpleXMLElement)#39 (5) {
+        ["title"]=>
+        string(37) "New photos: A prince and his baby sis"
+        ["guid"]=>
+        string(82) "http://www.cnn.com/2015/06/06/europe/uk-royal-princess-charlotte-photos/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/t-WyCSJ0Yx0/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 12:32:52 EDT"
+      }
+      [36]=>
+      object(SimpleXMLElement)#40 (5) {
+        ["title"]=>
+        string(34) "Look at me! 23 selfies of the week"
+        ["guid"]=>
+        string(79) "http://www.cnn.com/2015/06/10/living/gallery/selfies-look-at-me-0610/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/3W_fBSyrv-w/index.html"
+        ["description"]=>
+        string(169) "Take a look at 23 selfies of the week from June 3 through June 9."
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 09:45:57 EDT"
+      }
+      [37]=>
+      object(SimpleXMLElement)#41 (5) {
+        ["title"]=>
+        string(36) "Chasing Europe's colorful tour buses"
+        ["guid"]=>
+        string(77) "http://www.cnn.com/2015/06/04/living/cnnphotos-europe-bus-graphics/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/LNp3jJIosNc/index.html"
+        ["description"]=>
+        string(256) "Taylor Holland was riding his bike by the Eiffel Tower in Paris when he noticed a blur of color -- a tour bus with a bright rainbow graphic on its side."
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 11:31:41 EDT"
+      }
+      [38]=>
+      object(SimpleXMLElement)#42 (5) {
+        ["title"]=>
+        string(44) "Beautiful photos celebrate the Mediterranean"
+        ["guid"]=>
+        string(76) "http://www.cnn.com/2015/06/02/travel/photomed-2015-france-riviera/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/9DN5f5OpchA/index.html"
+        ["description"]=>
+        string(253) "At a time when Mediterranean regions are often represented by visions of chaos and suffering, a young festival brings light and beauty to the public."
+        ["pubDate"]=>
+        string(29) "Mon, 08 Jun 2015 10:55:21 EDT"
+      }
+      [39]=>
+      object(SimpleXMLElement)#43 (5) {
+        ["title"]=>
+        string(21) "The week in 37 photos"
+        ["guid"]=>
+        string(74) "http://www.cnn.com/2015/06/05/world/gallery/week-in-photos-0605/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/zBj9VXo7gPA/index.html"
+        ["description"]=>
+        string(168) "Take a look at 37 photos of the week from May 29 through June 4."
+        ["pubDate"]=>
+        string(29) "Fri, 05 Jun 2015 09:29:06 EDT"
+      }
+      [40]=>
+      object(SimpleXMLElement)#44 (5) {
+        ["title"]=>
+        string(51) "Want this math genius' mansion? It's yours for $23M"
+        ["guid"]=>
+        string(87) "http://www.cnn.com/2015/06/04/travel/curve-house-23-million-integral-toronto/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/Q1XWWDMhDCI/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 08 Jun 2015 10:28:01 EDT"
+      }
+      [41]=>
+      object(SimpleXMLElement)#45 (5) {
+        ["title"]=>
+        string(34) "The homeowners who refuse to budge"
+        ["guid"]=>
+        string(71) "http://www.cnn.com/2015/05/19/asia/gallery/china-nail-houses/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/lTe4AI6VrBs/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 01 Jun 2015 08:46:34 EDT"
+      }
+      [42]=>
+      object(SimpleXMLElement)#46 (5) {
+        ["title"]=>
+        string(45) "The Transformer superyacht that's also a jet "
+        ["guid"]=>
+        string(72) "http://www.cnn.com/2015/06/08/sport/superyacht-jet-helicopter/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/N2pejDimnyc/index.html"
+        ["description"]=>
+        string(169) "As if superyachts weren't audacious and expensive enough already."
+        ["pubDate"]=>
+        string(29) "Mon, 08 Jun 2015 10:10:58 EDT"
+      }
+      [43]=>
+      object(SimpleXMLElement)#47 (5) {
+        ["title"]=>
+        string(45) "The most popular tourist city for 2015 is ..."
+        ["guid"]=>
+        string(89) "http://www.cnn.com/2015/06/03/travel/mastercard-top-10-destination-cities-2015/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/c5lL3WS0KoA/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 08 Jun 2015 10:39:07 EDT"
+      }
+      [44]=>
+      object(SimpleXMLElement)#48 (5) {
+        ["title"]=>
+        string(31) "Incredible Denmark in 18 images"
+        ["guid"]=>
+        string(93) "http://www.cnn.com/2015/06/05/travel/gallery/denmark-constitution-day-beauty-spots/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/vj9cJVvHzYI/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 08 Jun 2015 10:39:07 EDT"
+      }
+      [45]=>
+      object(SimpleXMLElement)#49 (5) {
+        ["title"]=>
+        string(39) "11 sentenced to death over soccer riots"
+        ["guid"]=>
+        string(78) "http://www.cnn.com/2015/06/09/africa/egypt-soccer-deaths-sentencing/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/8EZz0hmqOtM/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 10 Jun 2015 08:11:44 EDT"
+      }
+      [46]=>
+      object(SimpleXMLElement)#50 (5) {
+        ["title"]=>
+        string(43) "Parole board to recommend Pistorius release"
+        ["guid"]=>
+        string(99) "http://www.cnn.com/2015/06/08/africa/south-africa-oscar-pistorius-release-recommendation/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/n18Td_cTMy8/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 12:03:57 EDT"
+      }
+      [47]=>
+      object(SimpleXMLElement)#51 (5) {
+        ["title"]=>
+        string(44) "Why America is raising a glass to the French"
+        ["guid"]=>
+        string(87) "http://www.cnn.com/2015/06/11/sport/the-hermione-lafayette-george-washington/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/WXeKyP1h8zA/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 10:36:17 EDT"
+      }
+      [48]=>
+      object(SimpleXMLElement)#52 (5) {
+        ["title"]=>
+        string(47) "NASA 'flying saucer' parachute fails to inflate"
+        ["guid"]=>
+        string(67) "http://www.cnn.com/2015/06/08/us/nasa-flying-saucer-test/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/fTJf1XVLPA4/index.html"
+        ["description"]=>
+        string(298) "NASA's "flying saucer" took to the skies without trouble Monday, but one of the main technologies it was testing -- a parachute meant to help future craft land on Mars -- didn't work as planned."
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 11:58:23 EDT"
+      }
+      [49]=>
+      object(SimpleXMLElement)#53 (5) {
+        ["title"]=>
+        string(51) "Kuwait's ghost stadium prepares to breathe new life"
+        ["guid"]=>
+        string(70) "http://www.cnn.com/2015/06/09/football/kuwait-stadium-story/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/dDCcwC7IUtU/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 11:57:00 EDT"
+      }
+      [50]=>
+      object(SimpleXMLElement)#54 (5) {
+        ["title"]=>
+        string(41) "Qatar extends travel ban for 'Taliban 5' "
+        ["guid"]=>
+        string(88) "http://www.cnn.com/2015/05/31/world/bergdahl-taliban-five-travel-ban-extended/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/iQRkI0ulj3E/index.html"
+        ["description"]=>
+        string(313) "Qatar has agreed to temporarily extend a travel ban for the five senior Taliban leaders who have lived there since being released in a prisoner exchange with the United States, a senior U.S. official told CNN."
+        ["pubDate"]=>
+        string(29) "Tue, 02 Jun 2015 08:07:48 EDT"
+      }
+      [51]=>
+      object(SimpleXMLElement)#55 (5) {
+        ["title"]=>
+        string(55) "Chinese feminists show off armpit hair in photo contest"
+        ["guid"]=>
+        string(80) "http://www.cnn.com/2015/06/10/china/china-armpit-hair-gender-equality/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/OTYBkd3Uk8Y/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 10 Jun 2015 07:44:15 EDT"
+      }
+      [52]=>
+      object(SimpleXMLElement)#56 (5) {
+        ["title"]=>
+        string(36) "Aung San Suu Kyi arrives in Beijing "
+        ["guid"]=>
+        string(73) "http://www.cnn.com/2015/06/10/asia/myanmar-china-suu-kyi-visit/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/ckcKKcy1XCY/index.html"
+        ["description"]=>
+        string(332) "Myanmar's opposition leader Aung San Suu Kyi has arrived in Beijing to meet with Chinese leaders, on a trip that will further underline the Nobel laureate's apparent transition from human rights defender to pragmatic politician."
+        ["pubDate"]=>
+        string(29) "Wed, 10 Jun 2015 10:24:48 EDT"
+      }
+      [53]=>
+      object(SimpleXMLElement)#57 (5) {
+        ["title"]=>
+        string(39) "15-year-old intern discovers new planet"
+        ["guid"]=>
+        string(71) "http://www.cnn.com/2015/06/11/europe/intern-discovers-planet/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/5W5ZbyolduU/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 10:42:30 EDT"
+      }
+      [54]=>
+      object(SimpleXMLElement)#58 (5) {
+        ["title"]=>
+        string(35) "European Games 2015: What are they?"
+        ["guid"]=>
+        string(77) "http://www.cnn.com/2015/06/03/sport/on-the-road-azerbaijan-baku-qa/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/FRLYKuXxN6s/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 11:59:00 EDT"
+      }
+      [55]=>
+      object(SimpleXMLElement)#59 (5) {
+        ["title"]=>
+        string(34) "How lion hunters became protectors"
+        ["guid"]=>
+        string(78) "http://www.cnn.com/2014/11/24/world/gallery/cnn-heroes-leela-hazzah/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/MjfiPP6zmHs/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 04 Jun 2015 11:47:42 EDT"
+      }
+      [56]=>
+      object(SimpleXMLElement)#60 (5) {
+        ["title"]=>
+        string(32) "World Cup 'army' breaks barriers"
+        ["guid"]=>
+        string(75) "http://www.cnn.com/2014/11/26/world/gallery/cnn-heroes-jon-burns/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/BO0A5GcRvW4/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 04 Jun 2015 11:43:14 EDT"
+      }
+      [57]=>
+      object(SimpleXMLElement)#61 (5) {
+        ["title"]=>
+        string(30) "'I want to inspire these kids'"
+        ["guid"]=>
+        string(91) "http://www.cnn.com/2014/11/21/world/gallery/cnn-heroes-juan-pablo-romero-fuentes/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/tfsM8_XD_Y0/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 04 Jun 2015 11:31:11 EDT"
+      }
+      [58]=>
+      object(SimpleXMLElement)#62 (5) {
+        ["title"]=>
+        string(44) "Fighting to win against the forces of nature"
+        ["guid"]=>
+        string(69) "http://www.cnn.com/2015/04/29/world/cnnheroes-nepal-update/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/ui-FDPGGxp4/index.html"
+        ["description"]=>
+        string(216) "Two CNN Heroes are among the earthquake survivors in Kathmandu, Nepal. And they are struggling in the aftermath."
+        ["pubDate"]=>
+        string(29) "Thu, 04 Jun 2015 11:34:03 EDT"
+      }
+      [59]=>
+      object(SimpleXMLElement)#63 (5) {
+        ["title"]=>
+        string(70) "Drunken monkeys? Only humans really don't know when they've had enough"
+        ["guid"]=>
+        string(78) "http://www.cnn.com/2015/06/11/opinions/drunken-monkeys-conversation/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/CptizoURuFU/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 08:57:31 EDT"
+      }
+      [60]=>
+      object(SimpleXMLElement)#64 (5) {
+        ["title"]=>
+        string(61) "Mesmerizing images blur the line between architecture and art"
+        ["guid"]=>
+        string(72) "http://www.cnn.com/2015/06/11/travel/serge-najjar-photography/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/_f7MOUSO19s/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 10:07:56 EDT"
+      }
+      [61]=>
+      object(SimpleXMLElement)#65 (5) {
+        ["title"]=>
+        string(59) "Can Uber-style apps make affordable private jets a reality?"
+        ["guid"]=>
+        string(65) "http://www.cnn.com/2015/06/09/travel/uber-private-jets/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/RBV7vQwkAh0/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 11 Jun 2015 08:50:33 EDT"
+      }
+      [62]=>
+      object(SimpleXMLElement)#66 (5) {
+        ["title"]=>
+        string(58) "This man's blood has saved the lives of two million babies"
+        ["guid"]=>
+        string(86) "http://www.cnn.com/2015/06/09/health/james-harrison-golden-arm-blood-rhesus/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/A_5EmvIEK4E/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 09 Jun 2015 08:15:35 EDT"
+      }
+      [63]=>
+      object(SimpleXMLElement)#67 (5) {
+        ["title"]=>
+        string(39) "Hope Solo's 'freaking huge' performance"
+        ["guid"]=>
+        string(65) "http://www.cnn.com/2015/06/09/football/hope-solo-uswnt/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/0WMqQO91okI/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 10 Jun 2015 09:14:21 EDT"
+      }
+      [64]=>
+      object(SimpleXMLElement)#68 (5) {
+        ["title"]=>
+        string(41) "Surge in female recruits to ISIS reported"
+        ["guid"]=>
+        string(77) "http://www.cnn.com/2015/05/29/middleeast/who-are-the-women-of-isis/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/zdznor5PRF8/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 02 Jun 2015 14:48:15 EDT"
+      }
+      [65]=>
+      object(SimpleXMLElement)#69 (5) {
+        ["title"]=>
+        string(47) "China astronaut asks U.S. to open space station"
+        ["guid"]=>
+        string(66) "http://www.cnn.com/2015/05/28/asia/china-space-mckenzie/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/Wb1VW347aHQ/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 02 Jun 2015 08:00:41 EDT"
+      }
+      [66]=>
+      object(SimpleXMLElement)#70 (5) {
+        ["title"]=>
+        string(32) "What's behind India's heat wave?"
+        ["guid"]=>
+        string(72) "http://www.cnn.com/2015/05/28/world/india-heat-wave-explainer/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/BQhiKOJ1K5Y/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Fri, 29 May 2015 14:21:22 EDT"
+      }
+      [67]=>
+      object(SimpleXMLElement)#71 (5) {
+        ["title"]=>
+        string(51) "Man stolen as baby reunites with mom 41 years later"
+        ["guid"]=>
+        string(75) "http://www.cnn.com/2015/05/25/americas/chile-stolen-baby-reunion/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/bv63Q-nTFC8/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 28 May 2015 13:57:43 EDT"
+      }
+      [68]=>
+      object(SimpleXMLElement)#72 (5) {
+        ["title"]=>
+        string(55) "Historian claims to discover 'true face' of Shakespeare"
+        ["guid"]=>
+        string(97) "http://www.cnn.com/2015/05/20/living/feat-william-shakespeare-new-picture-country-life/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/8EN5u0vryBw/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Fri, 22 May 2015 10:10:45 EDT"
+      }
+      [69]=>
+      object(SimpleXMLElement)#73 (5) {
+        ["title"]=>
+        string(42) "Is the world turning its back on a people?"
+        ["guid"]=>
+        string(78) "http://www.cnn.com/2015/05/19/asia/rohingya-refugee-ships-explainer/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/cL26Foy0dUU/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Fri, 22 May 2015 08:28:26 EDT"
+      }
+      [70]=>
+      object(SimpleXMLElement)#74 (5) {
+        ["title"]=>
+        string(31) "Seeing humanity in farm animals"
+        ["guid"]=>
+        string(75) "http://www.cnn.com/2015/05/14/living/cnnphotos-farm-animal-moods/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/JtTbRfKcz_M/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 19 May 2015 07:33:40 EDT"
+      }
+      [71]=>
+      object(SimpleXMLElement)#75 (5) {
+        ["title"]=>
+        string(39) "'The day I infiltrated an African cult'"
+        ["guid"]=>
+        string(85) "http://www.cnn.com/2015/05/06/africa/gallery/infiltrated-african-nyau-cult/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/k7OVXEBa7fw/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 21 May 2015 13:16:11 EDT"
+      }
+      [72]=>
+      object(SimpleXMLElement)#76 (5) {
+        ["title"]=>
+        string(42) "Company treats 6,400 employees to vacation"
+        ["guid"]=>
+        string(74) "http://www.cnn.com/2015/05/11/asia/china-france-company-holiday/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/_FQL-5uabs0/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 14 May 2015 08:35:29 EDT"
+      }
+      [73]=>
+      object(SimpleXMLElement)#77 (5) {
+        ["title"]=>
+        string(39) "Mormons search for roots after genocide"
+        ["guid"]=>
+        string(63) "http://www.cnn.com/2015/05/07/world/cambodia-mormons/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/c8SdMdpoKRk/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 11 May 2015 08:43:48 EDT"
+      }
+      [74]=>
+      object(SimpleXMLElement)#78 (5) {
+        ["title"]=>
+        string(21) "The forgotten sherpas"
+        ["guid"]=>
+        string(93) "http://www.cnn.com/2015/05/08/world/nepal-forgotten-sherpas-remote-village-everest/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/wvwtxNKrNBs/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 11 May 2015 12:58:07 EDT"
+      }
+      [75]=>
+      object(SimpleXMLElement)#79 (5) {
+        ["title"]=>
+        string(49) "FAA questioned mental health of Germanwings pilot"
+        ["guid"]=>
+        string(85) "http://www.cnn.com/2015/04/29/politics/germanwings-pilot-faa-mental-health/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/QeJ60je_bEI/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 30 Apr 2015 17:40:20 EDT"
+      }
+      [76]=>
+      object(SimpleXMLElement)#80 (5) {
+        ["title"]=>
+        string(43) "Police: British TV star abused 22 students "
+        ["guid"]=>
+        string(76) "http://www.cnn.com/2015/04/29/europe/uk-jimmy-savile-abuse-school/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/fNnNMMvdtLA/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 30 Apr 2015 17:40:46 EDT"
+      }
+      [77]=>
+      object(SimpleXMLElement)#81 (5) {
+        ["title"]=>
+        string(35) "A hero for gorillas -- and poachers"
+        ["guid"]=>
+        string(97) "http://www.cnn.com/2015/04/24/africa/edwin-sabuhoro-consevation-hero-gorillas-poaching/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/SJKj6u25sro/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 30 Apr 2015 08:24:57 EDT"
+      }
+      [78]=>
+      object(SimpleXMLElement)#82 (5) {
+        ["title"]=>
+        string(34) "Dozens of dinosaur eggs discovered"
+        ["guid"]=>
+        string(71) "http://www.cnn.com/2015/04/21/asia/china-dinosaur-eggs-found/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/c8_y7FKtZXo/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 27 Apr 2015 14:14:29 EDT"
+      }
+      [79]=>
+      object(SimpleXMLElement)#83 (5) {
+        ["title"]=>
+        string(20) "The last of his kind"
+        ["guid"]=>
+        string(74) "http://www.cnn.com/2015/04/16/africa/kenya-northern-white-rhino/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/dZdArAIsl6I/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 20 Apr 2015 12:43:49 EDT"
+      }
+      [80]=>
+      object(SimpleXMLElement)#84 (5) {
+        ["title"]=>
+        string(15) "A year in space"
+        ["guid"]=>
+        string(65) "http://www.cnn.com/2015/03/26/us/gallery/year-in-space/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/DaJDHZSKq_o/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 28 Apr 2015 15:50:32 EDT"
+      }
+      [81]=>
+      object(SimpleXMLElement)#85 (5) {
+        ["title"]=>
+        string(45) " What are the world's coolest new buildings? "
+        ["guid"]=>
+        string(85) "http://www.cnn.com/2015/04/16/travel/gallery/architizer-best-new-buildings/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/pB3XEvczENk/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Fri, 17 Apr 2015 13:34:57 EDT"
+      }
+      [82]=>
+      object(SimpleXMLElement)#86 (5) {
+        ["title"]=>
+        string(18) "Goodbye, glaciers?"
+        ["guid"]=>
+        string(87) "http://www.cnn.com/2015/04/05/travel/the-wonder-list-chamonix-alps-bill-weir/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/_FZA1ceQeGo/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 14 Apr 2015 11:02:58 EDT"
+      }
+      [83]=>
+      object(SimpleXMLElement)#87 (5) {
+        ["title"]=>
+        string(44) "Inside the battle to save Africa's elephants"
+        ["guid"]=>
+        string(74) "http://www.cnn.com/2015/04/10/africa/chad-elephant-conservation/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/NDASD9QxkiI/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 14 Apr 2015 12:05:45 EDT"
+      }
+      [84]=>
+      object(SimpleXMLElement)#88 (5) {
+        ["title"]=>
+        string(35) "Orca baby boom off British Columbia"
+        ["guid"]=>
+        string(58) "http://www.cnn.com/2015/03/31/us/orca-baby-boom/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/oKHnI_IRLCU/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 07 Apr 2015 08:09:12 EDT"
+      }
+      [85]=>
+      object(SimpleXMLElement)#89 (5) {
+        ["title"]=>
+        string(35) "On TV, a new Jesus comes into view "
+        ["guid"]=>
+        string(62) "http://www.cnn.com/2015/04/06/living/jesus-tv-color/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/RD09pW-Vgx0/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 07 Apr 2015 09:33:57 EDT"
+      }
+      [86]=>
+      object(SimpleXMLElement)#90 (5) {
+        ["title"]=>
+        string(59) "How Stone-Age blades are still cutting it in modern surgery"
+        ["guid"]=>
+        string(73) "http://www.cnn.com/2015/04/02/health/surgery-scalpels-obsidian/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/HEIfTb7oI9I/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 07 Apr 2015 08:00:26 EDT"
+      }
+      [87]=>
+      object(SimpleXMLElement)#91 (5) {
+        ["title"]=>
+        string(47) "Stunning portraits of people with Down syndrome"
+        ["guid"]=>
+        string(76) "http://www.cnn.com/2015/03/31/living/down-syndrome-portraits-irpt/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/J3IEpLrWDZI/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 06 Apr 2015 09:22:23 EDT"
+      }
+      [88]=>
+      object(SimpleXMLElement)#92 (5) {
+        ["title"]=>
+        string(43) "World's largest asteroid impact zone found "
+        ["guid"]=>
+        string(76) "http://www.cnn.com/2015/03/24/asia/australia-huge-asteroid-impact/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/I3YlaSb9xqQ/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 01 Apr 2015 08:43:15 EDT"
+      }
+      [89]=>
+      object(SimpleXMLElement)#93 (5) {
+        ["title"]=>
+        string(48) "Japan unveils largest warship since World War II"
+        ["guid"]=>
+        string(79) "http://www.cnn.com/2015/03/26/asia/japan-msdf-new-helicopter-carrier/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/oZjKWQwJt6M/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 31 Mar 2015 15:25:59 EDT"
+      }
+      [90]=>
+      object(SimpleXMLElement)#94 (5) {
+        ["title"]=>
+        string(23) "A really big fish story"
+        ["guid"]=>
+        string(67) "http://www.cnn.com/2015/02/25/europe/italy-giant-catfish/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/r4AKdXUCXxk/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Fri, 27 Feb 2015 08:02:57 EST"
+      }
+      [91]=>
+      object(SimpleXMLElement)#95 (5) {
+        ["title"]=>
+        string(36) "Kim Jong Un: New look, new attitude?"
+        ["guid"]=>
+        string(74) "http://www.cnn.com/2015/02/19/asia/north-korea-kim-jong-un-hair/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/ssZYVyAzGZY/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 26 Feb 2015 14:05:25 EST"
+      }
+      [92]=>
+      object(SimpleXMLElement)#96 (5) {
+        ["title"]=>
+        string(36) "Sudan refugees take back their story"
+        ["guid"]=>
+        string(103) "http://www.cnn.com/2015/01/22/africa/gallery/sudan-stories-from-refugees-to-photojournalists/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/ecOCThd7Otg/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 02 Mar 2015 07:51:02 EST"
+      }
+      [93]=>
+      object(SimpleXMLElement)#97 (5) {
+        ["title"]=>
+        string(26) "Island of forgotten dreams"
+        ["guid"]=>
+        string(68) "http://www.cnn.com/2015/02/25/travel/gallery/seville-expo/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/NysvQLcvS2w/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 25 Feb 2015 14:02:53 EST"
+      }
+      [94]=>
+      object(SimpleXMLElement)#98 (5) {
+        ["title"]=>
+        string(51) "How to find the terrorist amid tide of human misery"
+        ["guid"]=>
+        string(73) "http://www.cnn.com/2015/02/02/middleeast/saudi-yemen-robertson/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/4yv6i0ghffA/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 04 Feb 2015 11:50:51 EST"
+      }
+      [95]=>
+      object(SimpleXMLElement)#99 (5) {
+        ["title"]=>
+        string(25) "Amazon tribe under threat"
+        ["guid"]=>
+        string(66) "http://www.cnn.com/2015/01/27/world/cnnphotos-awa-guaja/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/6eyTfbXkQ0U/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 29 Jan 2015 12:13:06 EST"
+      }
+      [96]=>
+      object(SimpleXMLElement)#100 (5) {
+        ["title"]=>
+        string(26) "A new sex park for Taiwan?"
+        ["guid"]=>
+        string(63) "http://www.cnn.com/2015/01/26/travel/taiwan-sex-park/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/VfwnNRgdY4s/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 29 Jan 2015 15:37:12 EST"
+      }
+      [97]=>
+      object(SimpleXMLElement)#101 (5) {
+        ["title"]=>
+        string(39) "The scariest theme park rides on Earth "
+        ["guid"]=>
+        string(73) "http://www.cnn.com/2015/01/27/travel/scariest-theme-park-rides/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/ogHsanhvH78/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 28 Jan 2015 08:12:03 EST"
+      }
+      [98]=>
+      object(SimpleXMLElement)#102 (5) {
+        ["title"]=>
+        string(57) "What's the perfect job for you? Ask your 5-year-old self "
+        ["guid"]=>
+        string(76) "http://www.cnn.com/2015/01/28/europe/perfect-job-career-childhood/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/rJcmUZ436V8/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 28 Jan 2015 08:13:05 EST"
+      }
+      [99]=>
+      object(SimpleXMLElement)#103 (5) {
+        ["title"]=>
+        string(55) "The extraordinary art of autistic 'five-year-old Monet'"
+        ["guid"]=>
+        string(100) "http://www.cnn.com/2014/10/09/world/the-extraordinary-art-of-autistic-five-year-old-monet/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/9_WWBybhzpw/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 28 Jan 2015 10:50:20 EST"
+      }
+      [100]=>
+      object(SimpleXMLElement)#104 (5) {
+        ["title"]=>
+        string(22) "Gifts fit for a queen "
+        ["guid"]=>
+        string(94) "http://www.cnn.com/2015/01/26/sport/queen-elizabeth-ii-buy-woman-who-has-everything/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/c0NKblVkuLM/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 26 Jan 2015 14:24:24 EST"
+      }
+      [101]=>
+      object(SimpleXMLElement)#105 (5) {
+        ["title"]=>
+        string(35) "Was King Tut's beard glued back on?"
+        ["guid"]=>
+        string(85) "http://www.cnn.com/2015/01/23/middleeast/feat-egypt-king-tutankhamun-beard/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/oGyHRTtASxk/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Mon, 26 Jan 2015 12:54:53 EST"
+      }
+      [102]=>
+      object(SimpleXMLElement)#106 (5) {
+        ["title"]=>
+        string(37) "Abducted toddler found after 24 years"
+        ["guid"]=>
+        string(75) "http://www.cnn.com/2015/01/15/asia/china-trafficked-boy-reunited/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/_Aa3izUFW5w/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 04 Feb 2015 12:17:17 EST"
+      }
+      [103]=>
+      object(SimpleXMLElement)#107 (5) {
+        ["title"]=>
+        string(35) "India's tiger population increasing"
+        ["guid"]=>
+        string(68) "http://www.cnn.com/2015/01/20/asia/tiger-population-india/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/SYZe6ZfPwBE/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Fri, 23 Jan 2015 09:30:07 EST"
+      }
+      [104]=>
+      object(SimpleXMLElement)#108 (5) {
+        ["title"]=>
+        string(50) "Scientists upload a worm's brain into a Lego robot"
+        ["guid"]=>
+        string(59) "http://www.cnn.com/2015/01/21/tech/mci-lego-worm/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/eCvL4yD0VqY/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 04 Feb 2015 12:17:28 EST"
+      }
+      [105]=>
+      object(SimpleXMLElement)#109 (5) {
+        ["title"]=>
+        string(41) "Hold on tight, we're landing sideways ..."
+        ["guid"]=>
+        string(110) "http://www.cnn.com/video/data/2.0/video/tv/2015/01/20/orig-natpkg-uk-plane-sideways-landing-wind.storyful.html"
+        ["link"]=>
+        string(111) "http://rss.cnn.com/~r/rss/edition_world/~3/650gMxuGyko/orig-natpkg-uk-plane-sideways-landing-wind.storyful.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 04 Feb 2015 12:17:41 EST"
+      }
+      [106]=>
+      object(SimpleXMLElement)#110 (5) {
+        ["title"]=>
+        string(18) "Art made from war "
+        ["guid"]=>
+        string(86) "http://www.cnn.com/2015/01/20/africa/mozambique-art-from-weapons-and-rubble/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/aJDlhdfT58A/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 22 Jan 2015 13:41:44 EST"
+      }
+      [107]=>
+      object(SimpleXMLElement)#111 (5) {
+        ["title"]=>
+        string(21) "World's top 25 hotels"
+        ["guid"]=>
+        string(76) "http://www.cnn.com/2015/01/21/travel/world-top-hotels-tripadvisor/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/YhS6HTB1TZ4/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 21 Jan 2015 09:22:48 EST"
+      }
+      [108]=>
+      object(SimpleXMLElement)#112 (5) {
+        ["title"]=>
+        string(48) "Spectacular ancient city deserted and mysterious"
+        ["guid"]=>
+        string(62) "http://www.cnn.com/2015/01/15/travel/great-zimbabwe/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/zVtGFMWMV0w/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Tue, 20 Jan 2015 09:03:34 EST"
+      }
+      [109]=>
+      object(SimpleXMLElement)#113 (5) {
+        ["title"]=>
+        string(24) "10 places we'd rather be"
+        ["guid"]=>
+        string(75) "http://www.cnn.com/2015/01/08/travel/gallery/warm-weather-places/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/W-IGOIx-_mg/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Fri, 09 Jan 2015 12:26:42 EST"
+      }
+      [110]=>
+      object(SimpleXMLElement)#114 (5) {
+        ["title"]=>
+        string(19) "Forgotten in Aleppo"
+        ["guid"]=>
+        string(71) "http://www.cnn.com/2015/01/05/middleeast/forgotten-in-aleppo/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/x6Geb-YD4kE/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Fri, 09 Jan 2015 10:58:56 EST"
+      }
+      [111]=>
+      object(SimpleXMLElement)#115 (5) {
+        ["title"]=>
+        string(49) "'It just went ballistic': Shark attacks teenager "
+        ["guid"]=>
+        string(110) "http://www.cnn.com/video/data/2.0/video/world/2015/01/16/pkg-shark-attacks-man-closes-beach.seven-network.html"
+        ["link"]=>
+        string(108) "http://rss.cnn.com/~r/rss/edition_world/~3/2u40hEcFZ90/pkg-shark-attacks-man-closes-beach.seven-network.html"
+        ["description"]=>
+        string(227) "A shark attacked a teenager while he was spearfishing near a popular Australian beach. CNN affiliate Seven Network reports."
+        ["pubDate"]=>
+        string(29) "Tue, 20 Jan 2015 11:38:14 EST"
+      }
+      [112]=>
+      object(SimpleXMLElement)#116 (5) {
+        ["title"]=>
+        string(34) "Is this the site of Jesus' trial? "
+        ["guid"]=>
+        string(64) "http://www.cnn.com/2015/01/06/living/jesus-trial-site/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/CTXKHAXPdhU/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Thu, 08 Jan 2015 15:06:45 EST"
+      }
+      [113]=>
+      object(SimpleXMLElement)#117 (5) {
+        ["title"]=>
+        string(27) "The world's safest airlines"
+        ["guid"]=>
+        string(74) "http://www.cnn.com/2015/01/06/intl_travel/world-safest-airlines/index.html"
+        ["link"]=>
+        string(65) "http://rss.cnn.com/~r/rss/edition_world/~3/pgyngYFiVc0/index.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 07 Jan 2015 12:06:36 EST"
+      }
+      [114]=>
+      object(SimpleXMLElement)#118 (5) {
+        ["title"]=>
+        string(36) "Helmet cam shows sniper shot to head"
+        ["guid"]=>
+        string(106) "http://www.cnn.com/video/data/2.0/video/us/2014/10/16/u-s-marine-survives-sniper-head-shot.sam-arnold.html"
+        ["link"]=>
+        string(107) "http://rss.cnn.com/~r/rss/edition_world/~3/wMmfCF26CLo/u-s-marine-survives-sniper-head-shot.sam-arnold.html"
+        ["description"]=>
+        string(104) ""
+        ["pubDate"]=>
+        string(29) "Wed, 07 Jan 2015 12:03:38 EST"
+      }
+    }
+  }
+}
