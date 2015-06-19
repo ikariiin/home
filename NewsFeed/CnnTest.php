@@ -6,6 +6,10 @@
  * Time: 1:45 AM
  */
 include "CnnNewsFeed.php";
-$url = "http://rss.cnn.com/rss/edition_world.rss";
-$cnn = new CnnNewsFeed($url);
-$cnn->getArray();
+$cnn = new CnnNewsFeed("asia");
+$cnn->get_image();
+echo "<br />";
+foreach($cnn->getRss()->channel->item as $headline) {
+    echo "<br />Guid: " . $headline->guid . "<br /> Title: " . $headline->title . "<br />Description: " . $headline->description . "<br />Link: " . $headline->link;
+}
+?>

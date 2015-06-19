@@ -7,58 +7,45 @@
  */
 
 class CnnNewsFeed {
-    private $url;
-    private $error;
-    private $simpleXmlObj;
-    private $format_res;
-    public function __construct($url)
+    /*
+     * The variable area will contain one of the following values:
+     * 1. world
+     * 2. africa
+     * 3. americas
+     * 4. asia
+     * 5. europe
+     * 6. middle east
+     * 7. u s
+     */
+    private $area;
+    private $sx;
+    private $value;
+    public function __construct($area)
     {
-        $this->url = $url;
+        $this->area = $area;
     }
-    private function get_content()
+    public function getRss()
     {
-        $header = @get_headers($this->url);
-        if($header[0] = "HTTP/1.1 404 Not Found")
-        {
-            $this->error = array("exist" => false);
-            return false;
-        }
-        else
-        {
-            $this->simpleXmlObj = simplexml_load_string(file_get_contents($this->url));
-            return $this->simpleXmlObj;
-        }
+        $file = file_get_contents("http://rss.cnn.com/rss/edition_" . $this->area . ".rss");
+        $this->sx = simplexml_load_string($file);
+        return $this->sx;
     }
-    private function parse()
+    public function get_image()
     {
-        $handle = $this->get_content();
-        if($handle === false) {
-            foreach ($handle->item as $content) {
-                $this->format_res = array(
-                    "guid" => $content->guid,
-                    "content" => array(
-                        "headline" => $content->title,
-                        "desc" => $content->description,
-                        "pubDate" => $content->pubDate,
-                        "link" => $content->link
-                    )
-                );
-            }
-            return $this->format_res;
-        }
-        else
+        foreach($this->sx->channel->image as $image)
         {
-            return false;
+            $this->value = "<a href=\""
+                . $image->link
+                . "\" title=\""
+                . $image->title
+                . "\"><img src=\""
+                . $image->url
+                . "\" width=\""
+                . $image->width
+                . "\" height==\""
+                . $image->height
+                . "\"/></a>";
         }
-    }
-    public function getArray()
-    {
-        if($this->parse() === false)
-        {
-            $error = "You Have an Error, please check! To get the details please call \$CNN->getError()";
-        }
-        else{
-            return $this->parse();
-        }
+        return $this->value;
     }
 }
