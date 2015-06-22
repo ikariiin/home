@@ -30,22 +30,4 @@ class CnnNewsFeed {
         $this->sx = simplexml_load_string($file);
         return $this->sx;
     }
-    public function get_image()
-    {
-        foreach($this->sx->channel->image as $image)
-        {
-            $this->value = "<a href=\""
-                . $image->link
-                . "\" title=\""
-                . $image->title
-                . "\"><img src=\""
-                . $image->url
-                . "\" width=\""
-                . $image->width
-                . "\" height==\""
-                . $image->height
-                . "\"/></a>";
-        }
-        return $this->value;
-    }
 }
