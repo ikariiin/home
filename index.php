@@ -15,9 +15,9 @@
     $items = $feed->channel->item;
     foreach($items as $item)
     {
-        echo "<a href='#' class='list-group-item active'>
-            <h4 class='list-group-item-heading'>Heading</h4>
-                    <p class='list-group-item-text'>Group Text</p>
+        echo "<a href='". $item->guid ."' class='list-group-item'>
+            <h4 class='list-group-item-heading'>" . $item->title . "</h4>
+                    <p class='list-group-item-text'>" . $item->description . "</p>
                 </a>";
     }
     ?>
