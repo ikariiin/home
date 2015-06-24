@@ -11,30 +11,55 @@
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     </head>
     <body>
-    <?php
-    $items = $feed->channel->item;
-    foreach($items as $item)
-    {
-        echo "<a href='". $item->guid ."' class='list-group-item'>
-            <h4 class='list-group-item-heading'>" . $item->title . "</h4>
-                    <p class='list-group-item-text'>" . $item->description . "</p>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Project</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">Weather</a></li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+        <div class="col-sm-4" style="margin-left: 65%; margin-top: 2.5%;">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Cnn News
+                </div>
+                <div class="panel-body">
+                        <div class="list-group">
+                            <?php
+                            $items = $feed->channel->item;
+                            /*foreach($items as $item)
+                            {
+                                echo "<a href='". $item->guid ."' class='list-group-item'>
+                        <h4 class='list-group-item-heading'>" . $item->title . "</h4>
+                                <p class='list-group-item-text'>" . $item->description . "</p>
+                            </a>";
+                            }*/
+                            for($i = 0; $i <= 2+1; $i++)
+                            {
+                                echo "<a href='". $items[$i]->guid ."' class='list-group-item'>
+            <h4 class='list-group-item-heading'>" . $items[$i]->title . "</h4>
+                    <p class='list-group-item-text'>" . $items[$i]->description . "</p>
                 </a>";
-    }
-    ?>
-        <div class="col-sm-4">
-            <div class="list-group">
-                <a href="#" class="list-group-item active">
-                    <h4 class="list-group-item-heading">Heading</h4>
-                    <p class="list-group-item-text">Group Text</p>
-                </a>
-                <a href="#" class="list-group-item">
-                    <h4 class="list-group-item-heading">Heading</h4>
-                    <p class="list-group-item-text">Group Text</p>
-                </a>
-                <a href="#" class="list-group-item">
-                    <h4 class="list-group-item-heading">Heading</h4>
-                    <p class="list-group-item-text">Group Text</p>
-                </a>
+                            }
+                            ?>
+                        </div>
+                </div>
             </div>
         </div>
     </body>
