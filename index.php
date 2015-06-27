@@ -34,6 +34,18 @@
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
     </nav>
+    <!-- Nav Bar Ending
+
+
+
+
+
+
+
+
+
+
+    -->
         <div class="col-sm-4" style="margin-left: 65%; margin-top: 2.5%;">
             <div class="panel panel-default">
                 <div class="panel-heading">
@@ -43,13 +55,6 @@
                         <div class="list-group">
                             <?php
                             $items = $feed->channel->item;
-                            /*foreach($items as $item)
-                            {
-                                echo "<a href='". $item->guid ."' class='list-group-item'>
-                        <h4 class='list-group-item-heading'>" . $item->title . "</h4>
-                                <p class='list-group-item-text'>" . $item->description . "</p>
-                            </a>";
-                            }*/
                             for($i = 0; $i <= 2+1; $i++)
                             {
                                 echo "<a href='". $items[$i]->guid ."' class='list-group-item'>
@@ -62,5 +67,13 @@
                 </div>
             </div>
         </div>
+    <!-- Cnn News Ended
+
+
+
+
+
+    -->
+
     </body>
 </html>
