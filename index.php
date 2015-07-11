@@ -3,6 +3,7 @@
         <?php
             include "resources/resources.php";
             echo $bootstrap;
+            echo $weather_icons;
             include "NewsFeed/CnnNewsFeed.php";
             $cnn = new CnnNewsFeed("world");
             $feed = $cnn->getRss();
@@ -15,7 +16,7 @@
     echo $navbar;
     $items = $feed->channel->item;
     ?>
-    <div id="temp" style="width: 30%; height: 7%;">
+    <div id="temp" style="width: 30%; height: 7%; margin-top: 6.5%;">
 
     </div>
     <?php

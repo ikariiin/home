@@ -5,10 +5,12 @@
  * Date: 11/7/15
  * Time: 10:42 AM
  */
+$weather_icons = "<link src='http://startyour.club/weather-icons/css/weather-icons.css' type='text/css' rel='stylesheet' />";
 $bootstrap = "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
         <link rel=\"stylesheet\" href=\"http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css\">
         <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"></script>
         <script src=\"http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js\"></script>";
+
 $navbar = "<nav class= \"navbar navbar-default\">
         <div class=\"container-fluid\">
             <!-- Brand and toggle get grouped for better mobile display -->
