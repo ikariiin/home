@@ -6,9 +6,23 @@ function GetLocation(location)
 {
     var long = location.coords.longitude;
     var lat = location.coords.latitude;
-    $.post("jsPhpInterface.php", { lat: lat, lon: long })
+    $.post("weatherModule/jsPhpInterface.php", { lat: lat, lon: long })
         .done(function(data)
         {
-            console.log(data);
+            var parsedJSON = JSON.parse(data);
+            $("#temp").html
+            (
+                "<div class='panel panel-primary'>" +
+                "<div class='panel-heading'>" +
+                "Temperature" +
+                "</div>" +
+                "<div class='panel-body'>" +
+                "<div style='font-size: 50px;'>"
+                +
+                parsedJSON.data.current_condition[0].FeelsLikeC + "° C" +
+                    "</div>" +
+                    "</div>" +
+                "</div>"
+            );
         });
 }

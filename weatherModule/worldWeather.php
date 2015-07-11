@@ -21,11 +21,12 @@ class worldWeather {
 
     private function exec()
     {
-        $final = $this->url . "?key=" . $this->key . "&lat=" . $this->lat . "&lon=" . $this->lon . "&format=" . $this->format;
+        $query = "?key=" . $this->key . "&q=" . $this->lat . ",%20" . $this->lon . "&format=" . $this->format;
+        $final = $this->url . $query;
         $contents = file_get_contents($final);
         return $contents;
     }
-    public function getJson()
+    public function getData()
     {
         return $this->exec();
     }

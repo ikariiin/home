@@ -14,6 +14,11 @@
     //navbar
     echo $navbar;
     $items = $feed->channel->item;
+    ?>
+    <div id="temp" style="width: 30%; height: 7%;">
+
+    </div>
+    <?php
     echo $cnnNewsHeader;
     for($i = 0; $i <= 2+1; $i++)
     {
