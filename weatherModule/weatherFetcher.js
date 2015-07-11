@@ -6,7 +6,7 @@ function GetLocation(location)
 {
     var long = location.coords.longitude;
     var lat = location.coords.latitude;
-    $.post("getData.php", { lat: lat, lon: long })
+    $.post("jsPhpInterface.php", { lat: lat, lon: long })
         .done(function(data)
         {
             console.log(data);

@@ -10,7 +10,8 @@ class worldWeather {
     private $lat;
     private $lon;
     private $format;
-    protected $url = " http://api.worldweatheronline.com/free/v2/weather.ashx";
+    private $key = "3be20163414371b55549cb84e2e47";
+    protected $url = "http://api.worldweatheronline.com/free/v2/weather.ashx";
     public function __construct($lat, $lon, $format = "json")
     {
         $this->lat = $lat;
@@ -20,7 +21,7 @@ class worldWeather {
 
     private function exec()
     {
-        $final = $this->url . "?lat=" . $this->lat . "&lon=" . $this->lon . "&format=json";
+        $final = $this->url . "?key=" . $this->key . "&lat=" . $this->lat . "&lon=" . $this->lon . "&format=" . $this->format;
         $contents = file_get_contents($final);
         return $contents;
     }
