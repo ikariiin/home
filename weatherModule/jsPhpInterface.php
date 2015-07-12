@@ -8,7 +8,7 @@
 include "worldWeather.php";
 if(isset($_POST) && !empty($_POST) && isset($_POST["lat"]) && isset($_POST["lon"]))
 {
-    $weather = new worldWeather(51.5072, 0.1275, "json");
+    $weather = new worldWeather($_POST['lat'], $_POST['lon'], "json");
     $json = $weather->getData();
     echo $json;
 }
