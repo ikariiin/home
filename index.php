@@ -8,6 +8,7 @@
             $cnn = new CnnNewsFeed("world");
             $feed = $cnn->getRss();
         ?>
+
         <script src="weatherModule/weatherFetcher.js"></script>
     </head>
     <body>
