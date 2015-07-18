@@ -3,13 +3,12 @@
         <?php
             include "resources/resources.php";
             echo $bootstrap;
-            echo $weather_icons;
             include "NewsFeed/CnnNewsFeed.php";
             $cnn = new CnnNewsFeed("world");
             $feed = $cnn->getRss();
         ?>
 
-        <script src="weatherModule/weatherFetcher.js"></script>
+        <script src="weatherModule/weatherFetcherForIndex.js"></script>
     </head>
     <body>
     <?php
@@ -17,6 +16,7 @@
     echo $navbar;
     $items = $feed->channel->item;
     ?>
+    <i class="wi wi-day-lightning"></i>
     <div id="temp" style="width: 30%; height: 7%; margin-top: 6.5%;">
 
     </div>

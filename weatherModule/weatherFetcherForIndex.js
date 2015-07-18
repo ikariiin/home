@@ -16,8 +16,7 @@ function GetLocation(location)
                 "<div class='panel-heading'>" +
                 "Temperature" +
                 "</div>" +
-                "<div class='panel-body'>" +
-                "<div style='font-size: 50px; background-image: url('http://localhost/home/resources/rainy_weather_by_kadeddy-d5jbciy.jpg');'>"
+                "<div class='panel-body'>"
                 +
                 parsedJSON.data.current_condition[0].FeelsLikeC + "° C" +
                     "</div>" +
