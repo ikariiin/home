@@ -1,14 +1,15 @@
 <html>
     <head>
+	<script src="weatherModule/weatherFetcherForIndex.js"></script>
         <?php
             include "resources/resources.php";
             echo $bootstrap;
             include "NewsFeed/CnnNewsFeed.php";
             $cnn = new CnnNewsFeed("world");
             $feed = $cnn->getRss();
+	    echo $jquery_ui;
         ?>
-
-        <script src="weatherModule/weatherFetcherForIndex.js"></script>
+        <script src="resources/dragable.js"></script>
     </head>
     <body>
     <?php
@@ -16,7 +17,6 @@
     echo $navbar;
     $items = $feed->channel->item;
     ?>
-    <i class="wi wi-day-lightning"></i>
     <div id="temp" style="width: 30%; height: 7%; margin-top: 6.5%;">
 
     </div>

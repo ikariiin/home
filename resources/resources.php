@@ -5,6 +5,8 @@
  * Date: 11/7/15
  * Time: 10:42 AM
  */
+$jquery_ui = '<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>';
 $weather_icons = "<link src='http://startyour.club/weather-icons/css/weather-icons.css' type='text/css' rel='stylesheet' />";
 $bootstrap = "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
         <link rel=\"stylesheet\" href=\"http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css\">
