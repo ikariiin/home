@@ -22,5 +22,5 @@ function GetLocation(location) {
                 "</div>"
             );
         });
+    $(".panel").draggable();
 }
-$(".panel").draggable();
